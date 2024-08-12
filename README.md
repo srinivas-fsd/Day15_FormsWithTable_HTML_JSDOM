@@ -1,3 +1,4 @@
+# App URL : https://friendlyform.netlify.app/
 # App OverView :
 This app gets user's contact details and their food choice and then displays the submitted info through table
 This app uses HTML, Java Script DOM and CSS 
